@@ -1,3 +1,6 @@
 [submodule "Backend_Prueba_Tecnica_MP"]
 	path = Backend_Prueba_Tecnica_MP
 	url = https://github.com/0Jarvisx/Backend_Prueba_Tecnica_MP.git
+[submodule "Frontend_Prueba_Tecnica_MP"]
+	path = Frontend_Prueba_Tecnica_MP
+	url = https://github.com/0Jarvisx/Frontend_Prueba_Tecnica_MP.git
