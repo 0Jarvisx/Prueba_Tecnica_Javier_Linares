@@ -1,0 +1,8 @@
+# Datos de SQL Server
+sqlserver-data/
+
+# Variables de entorno
+.env
+
+# Node modules
+node_modules/
